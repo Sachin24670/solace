@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617524017235",
+    "project_id": "solace-c17a5",
+    "storage_bucket": "solace-c17a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617524017235:android:b08e023a46542b68cceea6",
+        "android_client_info": {
+          "package_name": "com.example.solace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617524017235-ltfa2sb8u8shgbqm9ti96ka17k8j90d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi_mi2LwLkW4GhbIz_8BYRmpldyx_2JmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617524017235-ltfa2sb8u8shgbqm9ti96ka17k8j90d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
